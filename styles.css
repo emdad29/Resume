@@ -11849,3 +11849,15 @@ a.ho:hover {
   background-color: #343333;
 }
 
+.imgstyle {
+  max-width: 90%;
+  height: auto;
+  overflow: hidden;
+  position: relative;
+}
+
+.imgcontainer {
+  width: 60%;
+  height: 60%;
+}
+
